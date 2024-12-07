@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "172340298215",
+    "project_id": "neu-fall-2024-jinhong",
+    "storage_bucket": "neu-fall-2024-jinhong.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172340298215:android:2d7d4c44dfe2f9c543fd42",
+        "android_client_info": {
+          "package_name": "com.flutter.fcm.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172340298215-4vh2gbno4nuvg7lvtv0ggngv51c2g7ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "*********************"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172340298215-4vh2gbno4nuvg7lvtv0ggngv51c2g7ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172340298215:android:6b640439f00112b143fd42",
+        "android_client_info": {
+          "package_name": "com.jinhong.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172340298215-4vh2gbno4nuvg7lvtv0ggngv51c2g7ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjPUQ-dUTl48NPF4fCWao7PhrtuLNF-yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172340298215-4vh2gbno4nuvg7lvtv0ggngv51c2g7ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+{"firestore":{"rules":"firestore.rules","indexes":"firestore.indexes.json"},"flutter":{"platforms":{"android":{"default":{"projectId":"neu-fall-2024-jinhong","appId":"***************","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"neu-fall-2024-jinhong","configurations":{"android":"***************","web":"***************"}}}}}}

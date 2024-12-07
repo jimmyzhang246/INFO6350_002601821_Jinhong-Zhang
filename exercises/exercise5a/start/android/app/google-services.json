@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172340298215",
+    "project_id": "neu-fall-2024-jinhong",
+    "storage_bucket": "neu-fall-2024-jinhong.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "***************",
+        "android_client_info": {
+          "package_name": "com.jinhong.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "***************"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
